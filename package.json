@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/devongovett/blob-stream",
   "dependencies": {
-    "blob": "0.0.4"
+    "blob": "0.0.4",
+    "stream-browserify": "2.0.2"
   },
   "devDependencies": {
     "tape": "^2.12.3"
