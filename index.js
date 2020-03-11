@@ -1,4 +1,4 @@
-var WritableStream = require('stream').Writable;
+var WritableStream = require('stream-browserify').Writable;
 var util = require('util');
 var Blob = require('blob');
 var URL = global.URL || global.webkitURL || global.mozURL;
